@@ -4,3 +4,5 @@ Performing lasso regression on Hitters data (ISLR library)
 We use the glmnet package in order to perform ridge regression and the lasso. 
 
 We will predict Salary on the Hitters dataset.
+
+The data is cleaned first by removing the NA values. 
